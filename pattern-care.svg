@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" fill="none">
+  <title>Abstract supportive women's health motif</title>
+  <rect width="800" height="800" fill="#F7FAFF"/>
+  <g stroke="#D7E0ED" stroke-width="1.5">
+    <path d="M0 200h800M0 400h800M0 600h800M200 0v800M400 0v800M600 0v800"/>
+    <circle cx="400" cy="400" r="260" stroke="#EAF1FB" stroke-width="3"/>
+    <circle cx="400" cy="400" r="180"/>
+    <circle cx="400" cy="400" r="90" stroke="#0B4DA2" stroke-dasharray="4 6"/>
+  </g>
+  <path d="M120 750C120 540 260 380 400 380s280 160 280 370" stroke="#012E75" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M220 750c0-140 80-240 180-240s180 100 180 240" stroke="#0B4DA2" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#EAF1FB" stroke="#ED060F" stroke-width="2">
+    <circle cx="400" cy="380" r="8"/>
+    <circle cx="280" cy="500" r="6"/>
+    <circle cx="520" cy="500" r="6"/>
+  </g>
+</svg>

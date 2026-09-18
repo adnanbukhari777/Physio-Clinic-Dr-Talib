@@ -1,0 +1,8 @@
+.worktrees/
+.superpowers/
+.sites-runtime/
+.openai/
+__pycache__/
+*.pyc
+*.zip
+*.tar.gz
