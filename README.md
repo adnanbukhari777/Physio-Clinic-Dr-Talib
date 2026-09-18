@@ -1,6 +1,6 @@
-# Dr. Farzana Jamil Clinic
+# Physio Clinic — Dr. Talib Hussain
 
-Dr. Farzana Jamil Clinic is an independent static website demonstration concept created by Bukhari AI for presentation purposes. It is a proposed design for a female gynecologist and women’s health clinic at City Hospital in Pakpattan, Punjab, Pakistan. It does not provide medical advice and is not for emergencies. The project has no patient form, booking flow, analytics, advertising pixels, or external runtime services.
+Physio Clinic is an independent static website demonstration concept created by Bukhari AI for presentation purposes. It is a proposed design for Physio Clinic and Dr. Talib Hussain, providing physiotherapy, rehabilitation and pain-care information at Al Fareed Garden in Pakpattan, Punjab, Pakistan. It does not provide medical advice and is not for emergencies. The project has no patient form, booking flow, analytics, advertising pixels, or external runtime services.
 
 ## Project structure
 
@@ -10,7 +10,16 @@ Dr. Farzana Jamil Clinic is an independent static website demonstration concept 
 - `assets/images/` and `assets/icons/` contain all local visual assets.
 - `privacy-notice.html`, `cookie-policy.html` and `website-terms.html` are the supporting legal pages.
 - `tests/site_checks.py` contains the automated static-site checks.
-- `docs/` contains the approved design specification and implementation plan.
+- `physio-clinic-design.md` contains the approved design specification and implementation plan.
+
+## Approved Public Links
+
+- Facebook: https://www.facebook.com/physiopakpattan/
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Physio+Clinic+Al+Fareed+Garden+Pakpattan
+
+## Verification Status
+
+The phone number, WhatsApp number, qualifications, registrations, exact opening hours, detailed address, and confirmed service list are designated as **NEEDS VERIFICATION** pending official practice confirmation. In the interim, the official Facebook page serves as the primary contact action and Google Maps serves as the secondary action.
 
 ## Use with GitHub
 
@@ -22,7 +31,7 @@ Dr. Farzana Jamil Clinic is an independent static website demonstration concept 
 ## Use with Google AI Studio
 
 1. Upload the extracted project or the full source ZIP to a new AI Studio workspace/chat that supports project files.
-2. Tell AI Studio to inspect `README.md`, the files in `docs/`, and the existing implementation before editing.
+2. Tell AI Studio to inspect `README.md`, `physio-clinic-design.md`, and the existing implementation before editing.
 3. Keep the current HTML, CSS and JavaScript architecture. This project has no Vite, React, Node.js, PHP or database dependency.
 4. Ask AI Studio to change only the named scope, preserve unrelated behavior, and report the files changed plus the checks performed.
 5. Download the revised project and commit the verified changes back to GitHub.

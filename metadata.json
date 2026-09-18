@@ -1,0 +1,6 @@
+{
+  "name": "Physio Clinic — Dr. Talib Hussain",
+  "description": "A proposed digital experience for Physio Clinic and Dr. Talib Hussain in Al Fareed Garden, Pakpattan, bringing treatment information, clinic updates and directions together in one clear place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

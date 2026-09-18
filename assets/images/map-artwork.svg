@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="750" viewBox="0 0 900 750" fill="none">
+  <title>Abstract location artwork for Physio Clinic, Al Fareed Garden, Pakpattan</title>
+  <rect width="900" height="750" fill="#F5F8FA"/>
+  <g fill="#FFFFFF" stroke="#DCE5EC" stroke-width="1.5">
+    <rect x="40" y="50" width="220" height="170" rx="14"/>
+    <rect x="300" y="50" width="220" height="170" rx="14"/>
+    <rect x="40" y="270" width="220" height="180" rx="14"/>
+    <rect x="300" y="270" width="220" height="180" rx="14"/>
+    <rect x="40" y="500" width="220" height="195" rx="14"/>
+    <rect x="300" y="500" width="220" height="195" rx="14"/>
+    <rect x="560" y="50" width="295" height="280" rx="14"/>
+    <rect x="560" y="380" width="295" height="315" rx="14"/>
+  </g>
+  <!-- Road Network -->
+  <path d="M-30 245h400c110 0 190 85 190 195v340" stroke="#FFFFFF" stroke-width="26"/>
+  <path d="M-30 245h400c110 0 190 85 190 195v340" stroke="#71C030" stroke-width="3"/>
+  <path d="M560 245h380" stroke="#FFFFFF" stroke-width="20"/>
+  <path d="M560 245h380" stroke="#DCE5EC" stroke-width="2"/>
+  <!-- Clinic Pin Marker -->
+  <circle cx="560" cy="440" r="64" fill="#EBF3FD" stroke="#71C030" stroke-width="2"/>
+  <circle cx="560" cy="440" r="38" fill="#045ED1"/>
+  <path d="M560 424v32m-16-16h32" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="150" cy="245" r="7" fill="#71C030"/>
+  <text x="560" y="535" font-family="'Montserrat', -apple-system, sans-serif" font-size="16" font-weight="700" fill="#12304F" text-anchor="middle" letter-spacing="0.05em">AL FAREED GARDEN, PAKPATTAN</text>
+  <text x="560" y="558" font-family="'Inter', -apple-system, sans-serif" font-size="13" font-weight="500" fill="#6F7478" text-anchor="middle">PHYSIO CLINIC • DR. TALIB HUSSAIN</text>
+</svg>

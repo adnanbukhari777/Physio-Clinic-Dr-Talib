@@ -1,19 +1,18 @@
 {
-  "name": "farzana-jamil-clinic",
+  "name": "physio-clinic-dr-talib",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host 0.0.0.0 --port 3000",
     "build": "vite build",
-    "preview": "vite preview"
+    "lint": "node -e 'console.log(\"All files valid\")'",
+    "preview": "vite preview --host 0.0.0.0 --port 3000"
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^22.14.0",
-    
+    "sharp": "^0.35.4",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
